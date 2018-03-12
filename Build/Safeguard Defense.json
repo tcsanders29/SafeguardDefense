@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Safeguard Defense.data.unityweb",
+"asmCodeUrl": "Safeguard Defense.asm.code.unityweb",
+"asmMemoryUrl": "Safeguard Defense.asm.memory.unityweb",
+"asmFrameworkUrl": "Safeguard Defense.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
